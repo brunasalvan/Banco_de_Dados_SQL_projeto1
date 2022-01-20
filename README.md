@@ -1,4 +1,4 @@
-# Banco-de-Dados-SQL
+# Banco_de_Dados_SQL
 
 **Requerimentos do projeto:**
 
